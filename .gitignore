@@ -1,4 +1,7 @@
 .env
-./postgres
-./registy
+postgres
 postgres/data
+mongodb
+myenv
+mysql
+registry/
